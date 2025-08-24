@@ -8,7 +8,7 @@ The starter code included the base project, mesh classes, camera movement, shade
 
 ## 📂 Included in this Repository
 
-- 3D Scene ZIP folder with the completed project  
+- 3D Scene files and folders 
 - Design Decisions Report  
 - README reflection for my portfolio  
 
